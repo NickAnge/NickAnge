@@ -30,6 +30,6 @@ My name is Nikos Angelopoulos and i am undergraduate Electrical and Computer Eng
 
 ## Social Icons
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/NickAnge)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/nick-angelopoulos-9611b018a/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/nick-angelopoulos-9611b018a/)  
 
  
