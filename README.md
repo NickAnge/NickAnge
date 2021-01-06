@@ -1,7 +1,7 @@
 
-![Header](https://raw.githubusercontent.com/NickAnge/NickAnge/main/header.png?token=AMV7RDXNQSGTHUIMQWUGMT276XTAO "Header")
+![Header](https://github.com/NickAnge/NickAnge/blob/main/header.png)
 
-
+<!--<img src="https://github.com/NickAnge/NickAnge/blob/main/header.png" width="200" height="200" />
 
 ### My name is Nikos Angelopoulos and I'm an undergraduated student at University of Volos, studying Electrical and Computer engineering. I'm from Greece, living in Volos and currently, apart of my studies i am lear on web developing and cloud engineer. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
