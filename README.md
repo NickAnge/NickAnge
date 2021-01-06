@@ -1,24 +1,35 @@
 
+
 ![Header](https://github.com/NickAnge/NickAnge/blob/main/header.png)
 
-<!--<img src="https://github.com/NickAnge/NickAnge/blob/main/header.png" width="200" height="200" />
+# Hello, folks 👋,
 
-### My name is Nikos Angelopoulos and I'm an undergraduated student at University of Volos, studying Electrical and Computer engineering. I'm from Greece, living in Volos and currently, apart of my studies i am lear on web developing and cloud engineer. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Nikos Angelopoulos and I'm Undergraduate Electrical and Computer Engineer at University of Thessaly. I'm from Greece, living in Volos and currently, apart of my studies, i am working on my web developing  and my DevOps skills.
+
+
+- 🔭 I’m currently working on my thesis
+- 🌱 I’m currently learning kubernetes
+
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 
 
 
-<!--
-**NickAnge/NickAnge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## &#x1f4c8; GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NickAnge&show_icons=true)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Social Icons
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/NickAnge)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/nick-angelopoulos-9611b018a/)  
+
  
