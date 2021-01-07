@@ -19,6 +19,9 @@ My name is Nikos Angelopoulos and i am undergraduate Electrical and Computer Eng
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+
 
 
 
