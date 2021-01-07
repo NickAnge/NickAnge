@@ -32,7 +32,8 @@ My name is Nikos Angelopoulos and i am undergraduate Electrical and Computer Eng
 
 
 ## Social Icons
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/NickAnge)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/nick-angelopoulos-9611b018a/)  
+
+[<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/https://github.com/NickAnge)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://linkedin.com/in/nick-angelopoulos-9611b018a/)  
 
  
