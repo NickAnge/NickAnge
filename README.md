@@ -1,7 +1,4 @@
 
-
-![Header](https://github.com/NickAnge/NickAnge/blob/main/header.png)
-
 # Hello, folks 👋,
 
 My name is Nikos Angelopoulos and i am undergraduate Electrical and Computer Engineer at University of Thessaly. I'm from Greece, living in Volos and currently, apart of my studies, i am working on my web developing  and my DevOps skills.
