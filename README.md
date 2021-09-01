@@ -4,11 +4,8 @@
 <img align="right" src="https://github.com/NickAnge/NickAnge/blob/main/assets/Developer.gif" width='200'/>
 
 
-My name is Nikos Angelopoulos and i am undergraduate Electrical and Computer Engineer at University of Thessaly. I'm from Greece, living in Volos and currently, apart of my studies, i am working on my web developing  and my DevOps skills.
+My name is Nikos Angelopoulos and i graduated from Electrical and Computer Engineer at University of Thessaly. I'm from Greece, living in Volos and currently, apart of my studies, i am working on my DevOps skills.
 
-
-- 🔭 I’m currently working on my thesis
-- 🌱 I’m currently learning kubernetes
 
 
 ## 🔧 Technologies & Tools
@@ -16,13 +13,11 @@ My name is Nikos Angelopoulos and i am undergraduate Electrical and Computer Eng
  - Back-end developement: NodeJs,MongoDb,Postgresql 
  - Container runtime enviroments : Docker
  - Orchestration Tool : Kubernetes
- - Languages : Golang, Javascript, Java
- - Learning about algorithms and data structures using python
+ - Languages : Golang, Python, Java
+ - Learning about algorithms and data structures using golang
 
 ## &#x1f4c8; GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NickAnge&show_icons=true)
-
-
 
 
 ## Social Icons
