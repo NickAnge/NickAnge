@@ -4,7 +4,7 @@
 <img align="right" src="https://github.com/NickAnge/NickAnge/blob/main/assets/Developer.gif" width='200'/>
 
 
-My name is Nikos Angelopoulos and i graduated from Electrical and Computer Engineer at University of Thessaly. I'm from Greece, living in Volos and currently, apart of my studies, i am working on my DevOps skills.
+My name is Nikos Angelopoulos and i graduated from Electrical and Computer Engineer at University of Thessaly. I'm from Greece, living in Barcelona and currently, I am working as Jr Site Reliability Engineer for Glovo.
 
 
 
