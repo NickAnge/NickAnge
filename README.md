@@ -4,12 +4,7 @@
 <img align="right" src="https://github.com/NickAnge/NickAnge/blob/main/assets/Developer.gif" width='200'/>
 
 
-My name is Nikos Angelopoulos and i graduated from Electrical and Computer Engineer at University of Thessaly. I'm from Greece, living in Barcelona and currently, I am working as Site Reliability Engineer for Glovo.
-
-
-## &#x1f4c8; GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NickAnge&show_icons=true)
-
+My name is Nikos Angelopoulos and i graduated from Electrical and Computer Engineer at University of Thessaly. I'm from Greece, living in Barcelona and currently, I am working as Site Reliability Engineer for Grafana.
 
 ## Social Icons
 
